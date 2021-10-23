@@ -2,4 +2,4 @@ bqplot
 ipympl
 ipyvolume
 scipy
-voila
+voila>=0.1.8
