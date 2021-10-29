@@ -2,4 +2,6 @@ bqplot
 ipympl
 ipyvolume
 scipy
-voila>=0.1.8
+voila
+numpy
+pandas
