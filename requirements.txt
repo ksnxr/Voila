@@ -5,3 +5,4 @@ scipy
 voila
 numpy
 pandas
+voila-material

@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser --enable_nbextensions=True notebook.ipynb
+web: voila --port=$PORT --no-browser --enable_nbextensions=True notebook.ipynb --template=material
